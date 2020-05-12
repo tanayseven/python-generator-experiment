@@ -1,0 +1,1 @@
+NEWLINE_CHARACTERS = frozenset({"\n", "\r"})
